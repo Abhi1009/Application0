@@ -2,5 +2,5 @@
 
 <hr>
 
-### this is my first repository
+### this is my first blog
 ### [click here](https://hackmd.io/s/H1i2TGX0V)
